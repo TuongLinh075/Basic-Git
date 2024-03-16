@@ -1,0 +1,6 @@
+path: C:\duanIOT\YOLO_test\dataset
+train: train/
+val: val/
+
+nc: 4
+names: ['Violet','Blue','Green','Red']
